@@ -153,7 +153,8 @@ My attempt at dockerizing the project lives in `/docker`. Sadly I couldn't get i
 </details>
 
 ## Variables
-These are the variables that need to be set including defaults 
+These are the variables that need to be set including defaults
+
 **FASTMAIL_SMTP**: The receiving smtp server + port
 
 default:
