@@ -1,0 +1,16 @@
+version: '3.3'
+
+services:
+
+  proton-forwarder:
+    build: proton-forwarder
+    environment:
+      HYDROXIDEUSER: TESTMAIL@protonmail.com
+      HYDROXIDEPASS: PROTONMAIL_PASSWORD
+    volumes:
+     - hydroxide-volume:/data
+
+volumes:
+  hydroxide-volume:
+
+
