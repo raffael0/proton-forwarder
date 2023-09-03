@@ -5,7 +5,7 @@ Please note that these instructions are a work in progress. While I managed to g
 
 I listed all inputs needed for each application in the respective section.
 
-The hydroxide portion of this repo is adapted from Harley Lang's [hydroxide-docker](https://github.com/harleylang/hydroxide-docker)
+The hydroxide portion of this projects docker files is adapted from Harley Lang's [hydroxide-docker](https://github.com/harleylang/hydroxide-docker)
 
 # Hydroxide:
 [Hydroxide](https://github.com/emersion/hydroxide/)
